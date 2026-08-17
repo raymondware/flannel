@@ -1,0 +1,15 @@
+{
+  "name": "flannel-marketplace",
+  "description": "Plain-language pairing persona for readable, maintainable code",
+  "owner": {
+    "name": "raymondware"
+  },
+  "plugins": [
+    {
+      "name": "flannel",
+      "description": "A senior-dev pairing persona that explains in plain words, not jargon",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}

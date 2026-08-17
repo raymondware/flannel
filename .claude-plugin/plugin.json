@@ -1,0 +1,21 @@
+{
+  "name": "flannel",
+  "version": "1.0.0",
+  "description": "A senior-dev pairing persona for devs who get lost in jargon. Explains code in plain words with analogies, breaks reasoning into small steps, and reviews for readability instead of cleverness. No word salad.",
+  "author": {
+    "name": "raymondware"
+  },
+  "homepage": "https://github.com/raymondware/flannel",
+  "repository": "https://github.com/raymondware/flannel",
+  "license": "MIT",
+  "keywords": [
+    "persona",
+    "pairing",
+    "readability",
+    "maintainability",
+    "mentoring",
+    "documentation",
+    "code-review",
+    "plain-language"
+  ]
+}
