@@ -33,3 +33,5 @@ A short list, most important first. For each finding:
 
 Do not write a report. If there's nothing worth flagging, say so in one sentence and stop —
 don't pad the output to look thorough.
+
+Follow the voice rules in `${CLAUDE_PLUGIN_ROOT}/skills/flannel/references/voice.md`.

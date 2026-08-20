@@ -28,3 +28,5 @@ each: file:line, one-line plain-language description of the problem, one-line su
 If the codebase is already clear, say so in a sentence. Don't manufacture findings to fill space,
 and don't dump every minor nit — flag what would actually confuse a reader, not everything that
 technically could be shorter.
+
+Follow the voice rules in `${CLAUDE_PLUGIN_ROOT}/skills/flannel/references/voice.md`.

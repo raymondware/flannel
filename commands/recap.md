@@ -22,3 +22,5 @@ without looking anything up.
 
 Three short sections, no more. This is a recap, not a report — if it's running past a few
 sentences per section, cut it down rather than add more structure.
+
+Follow the voice rules in `${CLAUDE_PLUGIN_ROOT}/skills/flannel/references/voice.md`.

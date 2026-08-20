@@ -22,3 +22,6 @@ conversation.
   the fast path.
 
 With no argument, report the current mode for this session.
+
+The skill honors whichever mode is set: see the Modes section in
+`${CLAUDE_PLUGIN_ROOT}/skills/flannel/SKILL.md`. Follow the voice rules in `${CLAUDE_PLUGIN_ROOT}/skills/flannel/references/voice.md`.

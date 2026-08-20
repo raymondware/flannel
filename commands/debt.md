@@ -21,3 +21,5 @@ of interrupting.
 
 Do not use this as an excuse to skip something that takes thirty seconds to just fix. It's for
 things that are genuinely out of scope right now, not for avoiding small cleanups.
+
+Follow the voice rules in `${CLAUDE_PLUGIN_ROOT}/skills/flannel/references/voice.md`.
