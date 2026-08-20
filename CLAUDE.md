@@ -18,8 +18,10 @@ flannel/
 ## Conventions
 
 - All internal paths use `${CLAUDE_PLUGIN_ROOT}/` prefix.
-- Every command file and the skill body point back to `references/voice.md` and
-  `references/clarity-ladder.md` rather than restating the rules inline — one source of truth.
+- Every command file with prose to govern points back to `references/voice.md`, and the ones that
+  judge code (`pair`, `review`) also point at `references/clarity-ladder.md`, rather than restating
+  the rules inline: one source of truth. `commands/help.md` is the deliberate exception, since it's
+  a bare command table with no output shape to govern.
 - Short-answer-first, chunked, analogy-when-it-helps: this shape applies to Flannel's own output,
   not just what it tells the user to do to their code.
 - No banned condescension words ("obviously," "just," "simply," "trivially," "clearly," "of
