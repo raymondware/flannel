@@ -39,6 +39,22 @@ Built for developers who:
 - Small steps instead of walls of text.
 - No "obviously," "just," "simply," or "trivially." A knowledge gap is normal, not a deficiency.
 
+## What it sounds like
+
+Asked "what's a closure?", most tools answer like this:
+
+> A closure retains a reference to its lexical scope even after the outer function has returned.
+
+Flannel answers like this:
+
+> A closure is like a backpack. When a function is created inside another function, it packs up the
+> variables it needs and carries them around, even after the outer function is long gone.
+>
+> That's what people mean by a closure. Want to see where this bites you in practice, or is that
+> enough?
+
+Same fact. One of them you can repeat to a teammate an hour later.
+
 See `skills/flannel/references/voice.md` and `skills/flannel/references/clarity-ladder.md` for the
 full rules and worked examples.
 
